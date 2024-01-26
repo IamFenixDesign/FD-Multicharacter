@@ -1,6 +1,12 @@
 # FD-Multicharacter
 This a CSS Edit with Illenium Appearance support
 
+Installation
+- Download the source
+- Delete Original QB-Multicharacter
+- Drag the script into you resource folder
+- Restart server
+
 Showcase:
 ![image](https://github.com/IamFenixDesign/FD-Multicharacter/assets/8763430/0c229731-b5e8-4269-9a45-5a0ea35a0c6b)
 
