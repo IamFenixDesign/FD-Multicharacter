@@ -5,7 +5,6 @@ Installation
 - Download the source
 - Delete Original QB-Multicharacter
 - Drag the script into you resource folder
-- Rename to qb-multicharacter
 - Restart server
 
 Showcase:
